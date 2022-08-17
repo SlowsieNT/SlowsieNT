@@ -18,9 +18,13 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
   <td>24h upto 14 days</td>
 </tr>
 </tbody>
-
-
 </table>
+<div>
+  Social media, and all other Big Tech sell your data, whether directly, or indirectly.<br>
+  Let no one control your life, let no one ban you from IRL/virtual places, join the Privacy gang.<br>
+  Start with watching videos from "The Hated One" on YouTube, or head over to r/privacy (Reddit)<br>
+  Thank you for taking your time to read all this.
+</div>
 
 ## Projects
 [TCLink](https://github.com/SlowsieNT/c/) Dark theme Chat (flat design) (Unlicense)<br>
