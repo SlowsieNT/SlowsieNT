@@ -8,12 +8,13 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=slowsient.slowsient)
 
 ## Contact
+<i><a href="https://getsession.org/" target="_blank">Session App</a> does not require registration, very privacy friendly.</i><br>
 <table>
 <thead><tr><th>Name</th><th>ID</th></tr></thead>
 <tbody>
 <tr><td><a href="https://getsession.org/" target="_blank">Session App (Link)</a></td><td>05f6e541966c39d60fc6d34d32025b8d8832faccf2978688a238bc208696654b7b</td></tr>
 </tbody>
-<i>Session app does not require registration, or phone number, privacy friendly app.</i>
+
 
 </table>
 
