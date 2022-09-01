@@ -15,12 +15,12 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 <tr>
   <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
   <td>b4764</td>
-  <td>24h</td>
+  <td>24h upto 3 days</td>
 </tr>
 <tr>
   <td><a href="https://getsession.org/" target="_blank">Session App</a></td>
   <td>05f6e541966c39d60fc6d34d32025b8d8832faccf2978688a238bc208696654b7b</td>
-  <td>24h upto 14 days</td>
+  <td>24h upto 7 days</td>
 </tr>
 </tbody>
 </table>
