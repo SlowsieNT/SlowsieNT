@@ -10,7 +10,7 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 ## Contact
 <i><a href="https://getsession.org/" target="_blank">Session App</a> does <b>not require</b> registration!!</i><br>
 <table>
-  <thead><tr><th>Name</th><th>ID / Username</th><th>Response Time</th></tr></thead>
+  <thead><tr><th>Name / Link</th><th>ID / Username</th><th>Response Time</th></tr></thead>
 <tbody>
 <tr>
   <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
