@@ -14,7 +14,7 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 <tbody>
 <tr>
   <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
-  <td>b4764</td>
+  <td>justdoit</td>
   <td>24h upto 3 days</td>
 </tr>
 <tr>
