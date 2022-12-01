@@ -19,8 +19,8 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 </tr>
 <tr>
   <td><a href="https://getsession.org/" target="_blank">Session App</a></td>
-  <td>05f6e541966c39d60fc6d34d32025b8d8832faccf2978688a238bc208696654b7b</td>
-  <td>24h upto 7 days</td>
+  <td>N/A</td>
+  <td>N/A</td>
 </tr>
 </tbody>
 </table>
