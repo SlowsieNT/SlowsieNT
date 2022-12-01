@@ -14,7 +14,7 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 <tbody>
 <tr>
   <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
-  <td>for(;;);</td>
+  <td><code>pinvoke</code></td>
   <td>24h upto 7 days</td>
 </tr>
 <tr>
