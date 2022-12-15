@@ -5,11 +5,11 @@ First and foremost, I welcome you to my profile.<br>
 Do note that coding/programming is but a hobby of mine.<br>
 Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
 *"No rights reserved."*<br>
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=slowsient.slowsient)
-
-## (My) page
+### Some webtools:
 [slowsient.github.io](https://slowsient.github.io)<br>
 <i>May find something interesting there?</i>
+
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=slowsient.slowsient)
 
 ## Contact
 <b><i>Currently too busy irl, will likely be free by end of January 2023.</i></b><br>
