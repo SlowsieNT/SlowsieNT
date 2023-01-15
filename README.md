@@ -42,9 +42,6 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go Lang" alt="Go Language" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 </p>
 
 ## Projects
