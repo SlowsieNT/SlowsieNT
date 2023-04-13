@@ -19,13 +19,13 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 <tbody>
 <tr>
   <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
-  <td><code title="Currently unavailable">N/A</code></td>
-  <td>N/A</td>
+  <td><code title="usr">pinvoke</code></td>
+  <td>48h upto 14d</td>
 </tr>
 <tr>
   <td><a href="https://getsession.org/" target="_blank">Session App</a></td>
-  <td><code title="Currently unavailable">N/A</code></td>
-  <td>N/A</td>
+  <td><code title="sid">05ccbec84613da34e2ec7e631f5706d74f2db152315d1bc0a976eae70ffc41cb51</code></td>
+  <td>48h upto 14d</td>
 </tr>
 </tbody>
 </table>
