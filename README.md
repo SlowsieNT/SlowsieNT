@@ -45,6 +45,7 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 </p>
 
 ## Projects
+[Encrypted Note](https://github.com/SlowsieNT/ennote/) AES Encrypted Note - notes making app.<br>
 [DBT](https://github.com/SlowsieNT/dbtools/) Enhanced DBTools php Library (Unlicense), uses PDO prepare<br>
 [TCLink](https://github.com/SlowsieNT/c/) Dark theme Chat (flat design) (Unlicense)<br>
 
