@@ -9,7 +9,7 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 [slowsient.github.io](https://slowsient.github.io)<br>
 <i>May find something interesting there?</i>
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=slowsient.slowsient)
+<img src="https://api.visitorbadge.io/api/visitors?path=slowsient.slowsient&countColor=%2337d67a&style=flat-square&labelStyle=upper">
 
 ## Contact
 <b><i>Currently not using any of apps listed, may change in the future.</i></b><br>
