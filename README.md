@@ -30,7 +30,7 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 </table>
 <div>
   I have no social media because they abuse user data in every way possible.<br>
-  To learn more see <a href="https://libreddit.org/r/privacy" target="_blank">r/privacy</a> (reddit).
+  To learn more see <a href="https://libreddit.de/r/privacy" target="_blank">r/privacy</a> (reddit).
 </div>
 
 ## Languages
