@@ -49,6 +49,6 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 [TCLink](https://github.com/SlowsieNT/c/) Dark theme Chat (flat design) (Unlicense)<br>
 
 ### Github Page:
-[Romaji Memory Game](https://slowsient.github.io/romaji/) (Unlicense)<br>
+[JaLLiK - Romaji Game](https://slowsient.github.io/romaji/) (Unlicense)<br>
 [NumeroUtils](https://slowsient.github.io/numero/) Numerology (Unlicense)<br>
 
