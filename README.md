@@ -12,7 +12,6 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 <img src="https://api.visitorbadge.io/api/visitors?path=slowsient.slowsient&countColor=%2337d67a&style=flat-square&labelStyle=upper">
 
 ## Contact
-<b><i>Currently not using any of apps listed, may change in the future.</i></b><br>
 <i><a href="https://getsession.org/" target="_blank">Session App</a> does <b>not require</b> registration!!</i><br>
 <table>
   <thead><tr><th>Name / Link</th><th>ID / Username</th><th>Response Time</th></tr></thead>
