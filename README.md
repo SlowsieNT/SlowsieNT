@@ -18,7 +18,7 @@ I am using **Unlicense** license by default, meaning projects are not copyrighte
 <tbody>
 <tr>
   <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
-  <td><code title="usr">pinvoke</code></td>
+  <td><code title="usr">pinvoke#8335</code></td>
   <td>48h upto 31d</td>
 </tr>
 <tr>
