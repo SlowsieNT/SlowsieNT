@@ -1,10 +1,7 @@
 
 
 ## About
-First and foremost, I welcome you to my profile.<br>
-Do note that coding/programming is but a hobby of mine.<br>
-I am using **Unlicense** license by default, meaning projects are not copyrighted.<br>
-*"No rights reserved."*<br>
+I no longer use github, try to contact me if need help.
 ### Some webtools:
 [slowsient.github.io](https://slowsient.github.io)<br>
 <i>May find something interesting there?</i>
